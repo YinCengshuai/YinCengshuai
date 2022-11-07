@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a sophomore student at School of Future Science and Technology of Soochow University which located in Suzhou, Jiangsu Province, China.
+I am a sophomore student at School of Future Science and Engineering, Soochow University which located in Suzhou, Jiangsu Province, China.
 
 ## Research Interests
 
@@ -15,9 +15,9 @@ reference algorithms
 ## News
 
 - **[OCT 25th, 2022]**  Passed College English Test Band 6.
-- **[OCT 11th, 2022]**  Professor Cong Yang led fifteen undergraduates including me to establish [the BeeLab](https://xinyu1213.github.io).🎉✨
-- **[DEC. 2022]** Obtained the National Inspirational Scholarship, the First Class Scholarship of Suzhou University for Excellence in Learning, and the Scholarship for Cultural and Sports Activities
-- **[Mar. 2022]** To be updated.
+- **[OCT 11th, 2022]**  Professor Cong Yang led fifteen undergraduates including me to establish [the BeeLab](https://beelab955.github.io/).🎉✨
+- **[OCT 28th, 2022]** Obtained the National Inspirational Scholarship, the First Class Scholarship of Suzhou University for Excellence in Learning, and the Scholarship for Cultural and Sports Activities
+- **[NOV 3rd,  2022]** Awarded the undergraduate education service (Soochow) award
 
 ## Projects
 
